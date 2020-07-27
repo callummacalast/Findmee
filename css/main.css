@@ -1,0 +1,30 @@
+.social_media-links{
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* i{
+  color: black;
+  font-size: 35px;
+  margin-right: 20px;
+} */
+
+.fa-search{
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+#search_home{
+  text-align: center;
+}
+
+.input-group-prepend, .search1{
+  margin-top: 250px;
+}
+
+.card{
+  margin: auto auto; 
+  width: 18rem;
+  margin-top: 20px;
+
+}
